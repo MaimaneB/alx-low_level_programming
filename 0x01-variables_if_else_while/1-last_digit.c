@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - print if the number is positive, zero, or negative
  *
- * Description: this project prints "the program is positive, zero, or negative 
+ * Description: prints "the program is positive, zero, or negative"
  *
  * Return: 0
  */
