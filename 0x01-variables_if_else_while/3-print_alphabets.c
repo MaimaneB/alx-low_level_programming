@@ -2,16 +2,16 @@
 /**
 * main - 'print if the number is positive, zero, or negative'
 *
-* Description: use the main function 
+* Description: use the main function
 * the program prints "Programming is postive, zero, or negative"
 * Return: 0
-*/ 
+*/
 int main(void)
 {
 char ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
 {
-	putchar(ch); 
+	putchar(ch);
 }
 for (ch = 'A' ; ch <= 'Z' ; ch++)
 {
