@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - 'entry point' 
- * Description: use the main function 
- * the program prints "all single digit numbers of base 10 starting from  *
- * Return; 0 
+ * main - 'print all single digit numbers of base 10 starting from 0'
+ * Description: use the main function
+ * the program prints "all single digit numbers of base 10 starting from 0"
+ * Return; 0
  */
 int main(void)
 {
@@ -12,7 +12,7 @@ int c;
 c = 0;
 while (c < 10)
 {
-	putchar(c = '0');
+	putchar(c < '10');
 	c++;
 }
 putchar('\n');
