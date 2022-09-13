@@ -29,7 +29,7 @@ else if (l == 0)
 
 else
 {
-	printf("Last digiy of %i is %i and is less than 6 and not 0\n", n, l);
+	printf("Last digit of %i is %i and is less than 6 and not 0\n", n, l);
 }
 
 return (0);
