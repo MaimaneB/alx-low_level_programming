@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - 'print all single digit numbers of base 10 starting from 0'
+ * main - 'print if the number is positive, zero, or negative'
  *
  * Description: use the main function
  * the program prints "all single digit numbers of base 10 starting from 0"
