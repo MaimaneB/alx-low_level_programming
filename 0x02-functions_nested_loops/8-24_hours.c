@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 #include <stdio.h>
 /**
  * jack_bauer - this function prints every minute of jack_bauer's day 
