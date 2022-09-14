@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * jack_bauer - this function prints every minute of jack_bauers day
- * @n: beginning at 00:00 to 23:59
+ * n beginning at 00:00 to 23:59
  * and: resets the mins
  * Return: 0
  */
