@@ -1,7 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_last_digit - this function pt
+ * print_last_digit - this function prints the last digit of a number
+ * @n: The number to be observed
+ *
+ * Return: the value of the last digit
  */
 int print_last_digit(int n)
 {
