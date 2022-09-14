@@ -3,8 +3,8 @@
 
 /**
  * print_to_98 - Prints all natural numbers from input to 98
- * 		 in chronological order, separated by a comma and space
- * @n: the number to begin counting from 
+ *		 in chronological order, separated by a comma and space
+ * @n: the number to begin counting from
  */
 void print_to_98(int n)
 {
