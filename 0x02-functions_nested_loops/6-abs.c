@@ -1,9 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _abs - The function computes the absolute value of an int 
+ * _abs - The function computes the absolute value of an int
  * @c: is the int to be used for the argument of a function
- * Return: 0 
+ * Return: 0
  */
 int _abs(int c)
 {
