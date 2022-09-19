@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* swap_int - swaps two integers' values 
+* swap_int - swaps two integers' values
 * @a: first integer
-* @b: second integer 
+* @b: second integer
 * Return: returns a null
 */
 
