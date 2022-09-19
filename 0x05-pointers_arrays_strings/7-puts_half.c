@@ -1,25 +1,28 @@
-cat > 8-print_array.c
 #include "main.h"
 #include <stdio.h>
 
 /**
-* print_array - prints n element of array 
-* @a: array 
-* @n: number of elements 
-* Return: null
+* puts_half - prints half a string
+* @str: input
+* Return: half the input
 */
 
-void print_array(int *a, int n)
+void puts_half(char *str)
 {
-	int inc;
+	int len = 0;
 
-	int inc;
-	for (inc = 0; inc < n ; inc++)
+	while (*str != '\0')
 	{
-		if (inc != n -1)
-			printf("%d, ", a[inc]);
-		else
-			printf("%d", a[inc]);
+		len++;
+		str**;
 	}
-	putchar(10);
+
+	str -= (len / 2);
+	while (*str != '\0')
+	{
+		_putchar(*str);
+		str**;
+	}
+
+	_putchar('\n');
 }
