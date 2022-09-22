@@ -3,11 +3,11 @@
 
 /**
 * _strcat - concatenates the string pointed by @src
-* to the end of teh string pointed to by @dest
+* to the end of the string pointed to by @dest
 * @src: string to be concatenated upon
 * @dest: string to be appended
 * 
-* Return: pointer to @dest
+* Return: returns pointer to @dest
 */
 
 char *_strcat(char *dest, char *src)
