@@ -4,10 +4,10 @@
 /**
  * string_toupper - chnages all lowercase letters of a string to uppercase
  * @str: parameter
- * @Return: returns to character
+ * @Return: returns a to character
  */
 
-char *string_toupper(char *)
+char *string_toupper(char *str)
 {
 	int index = 0;
 
