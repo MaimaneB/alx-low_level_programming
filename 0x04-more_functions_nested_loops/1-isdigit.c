@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
-* _isdigit - checks whether the character is a digit or not 
-* @c: tested character 
+* _isdigit - checks whether the character is a digit or not
+* @c: tested character
 * Return: return 1 if c is a digit otherwise 0
 */
 
