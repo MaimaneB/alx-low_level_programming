@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_diagonal - function used to print a diagonal line on the terminal 
+ * print_diagonal - function used to print a diagonal line on the terminal
  * @n: number of times the line should be printed
  * Return: a diagonal line
  */
