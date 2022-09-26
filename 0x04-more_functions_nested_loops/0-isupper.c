@@ -7,13 +7,13 @@
  * Return: 1 upon success, otherwise 0
  */
 
-int __isupper(int c)
+int _isupper(int c)
 {
 	if ((c >= 'A') && (c <= 'Z'))
 
 	{
 		return (1);
 	}
-
-	return (0);
+	else
+		return (0);
 }
